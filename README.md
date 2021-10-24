@@ -1,2 +1,3 @@
-# openCV-documentation-
-openCV Basics and advanced level documentation, functions to help with revision or be used as notes.
+# openCV
+
+I will be storing my openCV documentations along with fun algorithms here
